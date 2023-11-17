@@ -27,5 +27,5 @@ This repository contains all the submitted patch files of the various tasks assi
 ---
 #### My Certificate of Completion
 
-![Screenshot (997)](https://github.com/sandesh300/JP-Morgan-Forage-Virtual-Internship/assets/92014891/cb2e8b2b-262f-45e4-9ad0-a2337634aff4)
+<img src="https://github.com/sandesh300/JP-Morgan-Forage-Virtual-Internship/assets/92014891/cb2e8b2b-262f-45e4-9ad0-a2337634aff4" width="900" height="600">
 
