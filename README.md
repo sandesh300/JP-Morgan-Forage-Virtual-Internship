@@ -1,6 +1,15 @@
 # JPMorgan-Chase-Virtual-Internship
 This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+---
+### J.P. Morgan Software Engineering Virtual Experience on Forage 
 
+ * Set up a local dev environment by downloading the necessary files, tools and
+   dependencies.
+ * Fixed broken files in the repository to make web application output
+   correctly.
+ * Used JPMorgan Chase’s open source library called Perspective to generate a
+   live graph that displays a data feed in a clear and visually appealing way
+   for traders to monitor.
 ---
 ## I have worked on the following tasks during the internship
 #### 1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/sandesh300/forage-jpmc-swe-task-1)
